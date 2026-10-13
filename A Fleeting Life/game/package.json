@@ -1,0 +1,15 @@
+{
+  "name": "a-fleeting-life",
+  "uuid": "fb2f6f6d-bf42-4b5b-b02b-bc1d7b06265d",
+  "version": "0.1.0",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "preview": "node scripts/serve.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "build:cocos": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-cocos.ps1",
+    "build:android": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-cocos.ps1 -Platform android"
+  }
+}

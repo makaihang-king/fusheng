@@ -1,0 +1,22 @@
+{
+  "name": "FleetingLife",
+  "platform": "web-desktop",
+  "buildPath": "project://build",
+  "debug": true,
+  "md5Cache": false,
+  "startScene": "c760c45a-125b-424e-9663-30ca12b2f19e",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Main.scene",
+      "uuid": "c760c45a-125b-424e-9663-30ca12b2f19e"
+    }
+  ],
+  "packages": {
+    "web-desktop": {
+      "resolution": {
+        "width": 960,
+        "height": 540
+      }
+    }
+  }
+}

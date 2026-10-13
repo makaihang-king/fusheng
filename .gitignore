@@ -1,0 +1,24 @@
+# Cocos Creator 本地缓存与构建产物（可用 Cocos / 构建脚本重新生成）
+A Fleeting Life/game/library/
+A Fleeting Life/game/temp/
+A Fleeting Life/game/build/
+A Fleeting Life/game/dist/
+A Fleeting Life/game/local/
+A Fleeting Life/game/profiles/
+
+# 命令误操作产生的垃圾目录
+A Fleeting Life/game/%SystemDrive%/
+A Fleeting Life/game/--stop/
+
+# 超出 GitHub 仓库容量的大体积内容（本地保留，见 README 说明）
+A Fleeting Life/game.zip
+A Fleeting Life/android/
+A Fleeting Life/需要的软件/
+BGM交付_20260930/
+美术交付_20260926/
+_work/
+
+# 本地工具状态与日志
+.mimosa/
+*.log
+Thumbs.db

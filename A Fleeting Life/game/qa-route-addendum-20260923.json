@@ -1,0 +1,23 @@
+{
+  "finalReport": "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-205018\\route-report.json",
+  "reportChain": [
+    "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-202532\\route-report.json",
+    "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-204321\\route-report.json",
+    "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-205018\\route-report.json"
+  ],
+  "interpretation": "The first two reports failed due to operator visual misclassification and a conservative segment-start timing guard. All three scripts continued the same live game process, without force-stopping, restarting, or editing save data after the first report.",
+  "finalApkSha256": "9373F300742280FDD3D2DB45D7BFABB09F46D9D2E69206FF90804433A3F89F7F",
+  "apkInstall": "adb install -r -t returned Success before the route; package metadata in the reports records lastUpdateTime 2026-09-23 20:25:24.",
+  "operatorNotes": [
+    "The first report's choice-5 visual:N was an operator error: the screenshot showed 家长会之后 and three lives beneath the normal pause panel. The second report explicitly preserves the N and adds a visually confirmed Y.",
+    "An unrelated floating window briefly obscured the second report's choice-5 and segment-6 screenshots. Only its top-right X was tapped. Clean screenshots were taken after closing it; no fields or other controls were touched.",
+    "After misreading the scaled poem-5 screenshot, one extra physical downward swipe was sent while the poem was already active. The title was blank before and after that swipe. It did not select another branch; this manual action is outside the script's 107 logged actions.",
+    "The second report stopped at segment-6 because the clean paused screenshot measured 2.17 game seconds, above the original 1.25-second guard. The final continuation reconfirmed the paused scene and scheduled the first jump from that measured offset, before the 3.0-second obstacle."
+  ],
+  "supplementalScreenshots": {
+    "choice5Clean": "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-205018\\choice5-recheck-clean.png",
+    "poem5AfterExtraSwipe": "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-205018\\poem5-extra-slide.png",
+    "segment6Clean": "E:\\A Fleeting Life\\game\\build\\qa\\android-route-20260923-205018\\segment6-recheck-clean.png"
+  },
+  "result": "The final report records 26 checkpoints and 107 scripted actions, cloud-pillar reward, actual 小一号的课桌 ending, a five-second ending playback frame, and a hall return with the 课桌 lamp lit. The game process was alive and no fatal or ANR line was found."
+}

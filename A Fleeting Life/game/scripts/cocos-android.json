@@ -1,0 +1,33 @@
+{
+  "name": "FleetingLife",
+  "platform": "android",
+  "buildPath": "project://build",
+  "debug": true,
+  "md5Cache": false,
+  "startScene": "c760c45a-125b-424e-9663-30ca12b2f19e",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Main.scene",
+      "uuid": "c760c45a-125b-424e-9663-30ca12b2f19e"
+    }
+  ],
+  "packages": {
+    "android": {
+      "packageName": "com.fleetinglife.s1",
+      "apiLevel": 34,
+      "appABIs": [
+        "arm64-v8a"
+      ],
+      "orientation": {
+        "landscapeLeft": true,
+        "landscapeRight": true,
+        "portrait": false,
+        "portraitUpsideDown": false
+      },
+      "sdkPath": "E:\\A Fleeting Life\\android\\android-sdk",
+      "ndkPath": "E:\\A Fleeting Life\\android\\android-sdk\\ndk\\28.2.13676358",
+      "javaHome": "E:\\A Fleeting Life\\android\\jdk-17.0.20.1+1",
+      "javaPath": "E:\\A Fleeting Life\\android\\jdk-17.0.20.1+1\\bin\\java.exe"
+    }
+  }
+}
