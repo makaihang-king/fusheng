@@ -1,0 +1,26 @@
+# 15-植物-Plant-Life
+#
+Pixelblog - 15 - Plant Life
+/March 19, 2019
+by Raymond Schlitter
+## Intro
+Next to art, field-biology has always been one of my favorite areas of study. Wildly diverse and genuine in all its forms, I particularly have a deep respect for plant life. Essential to the architecture of our eco-system, these beautiful life forms stand nobly affixed in place. The infinite variation of colors, forms, and adaptions captures a brilliance beyond the capabilities of human invention. However, they will never stop inspiring us to strive for this beauty. Ironically, the essence of this natural beauty can be captured in the limited medium of pixel art.
+While organic subjects like plant-life can be difficult to render in pixels, it just takes practice. The key is to embrace abstraction. Don’t try to force realistic details simply for the sake of accuracy. Compared to the real-life counterparts, you’ll find plant life in pixels takes on a whole new charming aesthetic. Ahh, green is so calming.
+## General Classification
+First, let’s review the general categories of all plants and some examples. Even if you don’t use a reference, a little foundational knowledge will help you access better solutions when a creative problem calls for plant design. Furthermore, I believe intimate knowledge of the subjects you work with will bring out a more authentic quality in your work.
+Plant life can be further broken into more specific categories, but for classification on the broadest terms, all plant life fits somewhere in this spectrum. This knowledge may not seem necessary to be a good pixel artist, but in fact, knowledge of any kind will help you improve as an artist. Understanding how things work allows you to see everything more clearly, and nothing is more important to a visual artist than seeing.
+## Leave Shapes
+Most plants grow leaves to drive photosynthesis, thus providing nourishment. Leaves come in many shapes and sizes. If they are doing their job right, they are almost always a green hue. Here is a reference for the general shape categories.
+Many of these categories can be further broken down into more specific physical characteristics. When it comes to pixels, you’ll rarely have the scale/resolution to explicitly depict the leaves of a specific species, especially in dealing with dense foliage, but it’s always good to have a reference point and abstract as needed.
+## Tree study
+One of nature’s greatest gifts has to be trees. They provide us with so many resources, like firewood, lumber, fruits, medicine, and even oxygen. The way their limbs reach up towards the sky like outstretched arms, we can even relate to their anatomy. Being in the presence of great trees can even have a spiritual quality. It’s no wonder we love trees. While the dormant tangle of barren branches has it’s own appeal, I find a tree’s beauty shines the most when donning robust foliage.
+Trees come in all shapes and sizes, but for this particular study I depict a generic deciduous species with a nice canopy of foliage that still allows you to view some of the inner branches. I first draft the entire tree, including some rough shading and highlights. Developing the image beyond this rough impression of the forms and cleaning up the clusters is where most learners hit a snag. At this point you should pay mind to all the pixels and bring meaning to your clusters. Not every leaf needs to be represented. Just enough to give the impression of a leafy texture and the mind will automatically fill in the gaps where there are less defined large clusters. In fact, I almost went too far with the details in this example, but since I repeat similar cluster arrangements across the sprite it maintains a clean consistent look. Too much variation will create displeasing noise.
+## Final thoughts
+It was so refreshing to use a lot of green. Nature is my number one inspiration but it’s always challenging to pixel organic subjects. You can definitely expect more plant life tutorials in the future. I’d be happy to do a whole feature just on trees!
+## RESOURCES
+Was this article helpful? If you find value in my content please consider becoming a Patreon member. Among many other rewards, Pixel Insider members get extra resources to compliment my tutorials. But most importantly, you allow me to continue making new content. Assets featured in this Pixelblog are available in Legacy Asset Collection 1 All assets in this feature use my custom palette Planemo 8Get caught up on all my downloadsIf you're not ready to commit to the subscription model of Patreon, make a one-time donation and receive exclusive art and resources. Fan support is necessary to keep producing content. Thank you! -By Raymond Schlitter
+## 图片引用
+![](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1552951561681-C9PZB20TLG30M3ZF93C4/Title_image.png)
+![](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1552703001036-ZNQQG2DJ19YARQ2W3CTL/33-Plants.png)
+![](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1552921822923-G0K0RVOKBNZWYBFQBEGU/34-Leaves.png)
+![](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1552943938744-9RFVIPVMYCVLMH7SZ31K/35-Tree.gif)
