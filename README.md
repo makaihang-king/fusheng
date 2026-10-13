@@ -38,3 +38,11 @@ node scripts/serve.cjs
 
 - `npm test`：规则、剧情、动作、障碍、存档、媒体控制及宿主回归
 - `python scripts/validate-xiaoman-rig.py` 等校验脚本见 game/README.md
+
+## 许可证
+
+- **代码**：[MIT License](LICENSE)
+- **美术 / 音频 / 视频素材与设计文档**：[CC BY-NC 4.0](LICENSE-ASSETS)（署名—非商业性使用），商业使用需联系作者授权
+- `美术学习资料/` 为第三方教程存档，版权归原作者所有，仅供个人学习参考
+- 字体文件遵循其自带的 OFL 许可
+
